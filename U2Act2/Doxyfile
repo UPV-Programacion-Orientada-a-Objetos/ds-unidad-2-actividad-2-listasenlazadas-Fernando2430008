@@ -1,0 +1,10 @@
+# Doxygen config minimal para PRT-7
+PROJECT_NAME           = "PRT-7 Decoder"
+OUTPUT_DIRECTORY       = docs
+EXTRACT_ALL            = YES
+GENERATE_TREEVIEW      = YES
+INPUT                  = src
+RECURSIVE              = YES
+QUIET                  = YES
+GENERATE_HTML          = YES
+GENERATE_LATEX         = NO
